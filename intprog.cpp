@@ -2,7 +2,6 @@
 #include "simplex.h"
 #include "intprog.h"
 #include <vector>
-#include <map>
 #include <fstream>
 #include <string>
 #include <iomanip>
