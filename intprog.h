@@ -1,7 +1,6 @@
 #ifndef INTPROG_H_
 #define INTPROG_H_
 #include <vector>
-#include <map>
 #include <string>
 double int_solution();
 double int_solution2();
